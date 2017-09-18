@@ -1,0 +1,15 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\bin\Debug\ListItem Demo.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\bin\Debug\ListItem Demo.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\bin\Debug\ListItem Demo.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\MainWindow.g.cs
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\App.g.cs
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo_MarkupCompile.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo_MarkupCompile.lref
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\MainWindow.baml
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo.g.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem_Demo.Properties.Resources.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo.csproj.GenerateResource.Cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\ListItem Demo.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\ListItem Demo\ListItem Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
